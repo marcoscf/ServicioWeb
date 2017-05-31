@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <string name="app_name">ServicioWeb</string>
+    <string-array name="campos_rc">
+        <item>Nº Ref</item>
+        <item>Área</item>
+        <item>Orgánica</item>
+        <item>Cantidad</item>
+        <item>Fecha</item>
+    </string-array>
+    <string-array name="campos_fact">
+        <item>Nº Ref</item>
+        <item>Nº Factura</item>
+        <item>Fecha</item>
+        <item>Importe</item>
+        <item>Empresa</item>
+        <item>Área</item>
+    </string-array>
+    <string name="referencia">Nº Referencia: </string>
+    <string name="area">Área: </string>
+    <string name="proyecto">Proyecto: </string>
+    <string name="patrim">C. Patrimonial: </string>
+    <string name="presup">P. presupuestaria: </string>
+    <string name="gasto">J. Gasto: </string>
+    <string name="cantidad">Cantidad: </string>
+    <string name="cantidad_l">Cantidad en letra: </string>
+    <string name="fecha">Fecha: </string>
+    <string name="resp">Responsable: </string>
+    <string name="cons">Consejer@: </string>
+    <string name="fact">Nº Factura: </string>
+    <string name="base">Base imponible: </string>
+    <string name="igic">IGIC: </string>
+    <string name="importe">Importe: </string>
+    <string name="empresa">Empresa: </string>
+    <string name="salir">SALIR</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="hint">Valor a buscar</string>
+    <string name="cat">Categoría: </string>
+</resources>
